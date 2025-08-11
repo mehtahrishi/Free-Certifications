@@ -122,7 +122,6 @@
 | Redis | Redis Certified Developer is our professional certification program for software developers who regularly work with Redis. | [Link](https://university.redis.com/certification/) | Unknown |
 | Databricks | Free Training: Databricks Lakehouse Fundamentals. | [Link](https://www.databricks.com/learn/training/lakehouse-fundamentals) | Unknown |
 | SQL | Free SQL Course with Certificate | [Link](https://www.simplilearn.com/free-online-course-to-learn-sql-basics-skillup) | 90 days of access |
-| Neo4j Graph Academy | Free Exam Certificates and Proof of Completion Course Certificates | [Link](https://graphacademy.neo4j.com) | Unknown |
 | ArangoDB | ArangoDB Certified Professional | [Link](https://www.arangodb.com/learn/certification/) | Unlimited |
 | CrateDB | CrateDB Academy offers free online courses and certification for our open source multi-model database. | [Link](https://learn.cratedb.com) | Unlimited |
 
@@ -133,13 +132,7 @@
 | Provider | Description | Link | Expiration |
 | --- | --- | --- | --- |
 | Certiprof | Free “Scrum Foundations Professional Certificate (SFPC)” certification. Available in en, pt-br & es. Use the code “COVID19Support” | [Link](https://certiprof.com/pages/scrum-foundations-professional-certificate-sfpc-english) | Unknown |
-| Six Sigma Online | Free Six Sigma White Belt Training & Certification. | [Link](https://www.sixsigmaonline.org/six-sigma-white-belt-certification/) | Unknown |
 | OHSC | Free Project Management course and certificate by Oxford Home Study Centre (OHSC). | [Link](https://www.oxfordhomestudy.com/courses/project-management-courses-online/free-online-courses-with-certificates-in-project-management) | Unlimited |
-| Msicertified | Free Project Management Essentials Certified (PMEC) training & certification.  | [Link](https://www.msicertified.com/free-project-management-certification.html) | Unlimited |
-| 6sigmastudy | Free Six Sigma Yellow Belt course & certification. | [Link](http://www.6sigmastudy.com/Six-Sigma-Yellow-Belt.asp) | Unlimited |
-| ScrumStudy | Free “Scrum Fundamentals Certified (SFC™)” training course & certification | [Link](https://www.scrumstudy.com/certification/scrum-fundamentals-certified) | Unlimited |
-| SkillFront | Free Certified Associate In Scrum Fundamentals™ (CASF™) | [Link](https://www.skillfront.com/CASF-Certified-Associate-In-Scrum-Fundamentals) | Unlimited |
-| Great Learning | Free Project Management course | [Link](https://www.mygreatlearning.com/academy/learn-for-free/courses/project-management) | Unlimited |
 
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
@@ -160,11 +153,7 @@
 | CertiProf| Free Remote Work and Virtual Collaboration - RWVCPC | [Link](https://certiprof.com/pages/remote-work-and-virtual-collaboration-certificate-rwvcpc) | Unknown |
 | Slack | Free Slack Skill Learning Paths and Badges (issued by accredible.com - these are not certifications but badges for skill specialists) | [Link](https://www.slackcertified.com/page/slack-skills) | Unknown |
 | Miro | Collaborative meetings | [Link](https://academy.miro.com/learning-paths/collaborative-meetings-in-miro) | Unknown |
-| Miro | Mapping and diagramming | [Link](https://academy.miro.com/learning-paths/mapping-and-diagramming-in-miro) | Unknown |
 | EF SET | 50-minute test to receive your personalized English certificate to add to your LinkedIn profile or CV, aligned to CEFR levels. | [Link](https://www.efset.org/ef-set-50/) | Unlimited |
-certifications. | [Link](https://getlicensingready.com/Main.aspx) | Unlimited |
-| ProKanban.org | Free Kanban Flow Metrics assessment | [Link](https://prokanban.org/small-batch-certifications/) | Unlimited |
-| ATLASSIAN University | Confluence Fundamentals Badge | [Link](https://university.atlassian.com/student/path/861302/activity/2832257) | Unlimited |
 | ATLASSIAN University | Beginner's Guide to Agile in Jira Badge| [Link](https://university.atlassian.com/student/path/1113130-apply-agile-practices-to-manage-your-work) | Unlimited |
 
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
