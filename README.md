@@ -34,13 +34,10 @@
 | Observability | New Relic | FREE Full Stack Observability Exam | [Link](https://learn.newrelic.com/full-stack-observability-exam) | Unknown |
 | Programmability | New Relic | FREE Programmability Certification Exam | [Link](https://learn.newrelic.com/programmability-certification) | Unknown |
 | Chaos | Gremlin | FREE Gremlin Certified Chaos Engineering practitioner Certification| [Link](https://gremlin.coassemble.com/unlock/7Jan8Su#/) | Unknown |
-| Neo4j | Neo4j, Inc. | Become a Neo4j Certified Professional | [Link](https://neo4j.com/graphacademy/neo4j-certification/) | Unknown |
 | Confluent | Confluent | Fundamentals Accreditation | [Link](https://cloud.contentraven.com/confluent/self-userpackage?pid=MTI5NA%3D%3D) | Unknown |
 | Confluence | Confluence | Fundamentals Accreditation | [Link](https://university.atlassian.com/student/path/861302-confluence-fundamentals) | Unknown |
 | Gatling | Gatling Academy | Become an ace on Gatling’s Load Testing tool! | [Link](https://academy.gatling.io/) | Unknown |
 | Appium | HeadSpin | Appium Advanced Certifications | [Link](https://www.headspin.io/courses/the-appium-webinar-collection) | Unknown |
-| Selenium | LambdaTest | Selenium Advanced Certifications | [Link](https://www.lambdatest.com/certifications/) | Unknown |
-| DeepLearning AI | Deep Learning | Deep Learning Specialization. Master Deep Learning, and Break into AI | [Link](https://www.coursera.org/specializations/deep-learning?ranMID=40328&ranEAID=bt30QTxEyjA&ranSiteID=bt30QTxEyjA-xNKOW7m9l8XUKUliBGG59Q&siteID=bt30QTxEyjA-xNKOW7m9l8XUKUliBGG59Q&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=bt30QTxEyjA) | Unknown |
 | Kubernetes | Kasten.io by Veeam | Free Kubernetes Training | [Link](https://learning.kasten.io/) | Unknown |
 | Kubernetes Fundamentals  | Datadog | Free Kubernetes Fundamentals Training with Credly Badge | [Link](https://learn.datadoghq.com/bundles/k8s-fundamentals) | Unknown |
 | GraphQL & Apollo | Odyssey by Apollo | Apollo Graph Developer - Associate Certification | [Link](https://odyssey.apollographql.com/certifications/apollo-graph-associate) | Unknown |
@@ -69,8 +66,6 @@
 | Cilium Tetragon | Isovalent | Getting Started with Tetragon | [Link](https://isovalent.com/labs/security-observability-with-ebpf-and-cilium-tetragon/) | Unknown |
 | Cilium Tetragon | Isovalent | Isovalent Enterprise for Cilium: Security Visibility  | [Link](https://isovalent.com/labs/isovalent-cilium-enterprise-security-visibility/) | Unknown |
 | Cilium Tetragon | Isovalent | Isovalent Enterprise for Cilium: TLS Visibility | [Link](https://isovalent.com/labs/isovalent-cilium-enterprise-tls-visibility/) | Unknown |
-| eBPF | Isovalent | Getting Started with eBPF | [Link](https://isovalent.com/labs/getting-started-with-ebpf/) | Unknown |
-| eBPF | Isovalent | Learning eBPF Tutorial | [Link](https://isovalent.com/labs/learning-ebpf-tutorial/) | Unknown |
 | AWS Skill Builder | AWS | A repository of over 700 training lessons to help you learn AWS, refine your knowledge of AWS services, and improve your skills so you can put them into practice or apply the knowledge during the many AWS certifications. | [Link](https://explore.skillbuilder.aws/learn/catalog) | Unknown |
 | Integration | Boomi | Professional API Management Certification | [Link](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIyWAM&ltui__urlRedirect=learning-plan-detail-standard) | Unknown |
 | Integration | Boomi | Professional API Design Certification | [Link](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OKzWAM&ltui__urlRedirect=learning-plan-detail-standard) | Unknown |
@@ -97,18 +92,6 @@
 | Containers | RedHat |  Free Course On Running Containers with Red Hat Technical Overview | [Link](https://www.redhat.com/en/services/training/rh065-running-containers-red-hat-technical-overview?section=overview) | Unknown |
 | Site Reliability Engineering | RedHat |  Free Course On Transitional approach to implementing pragmatic Site Reliability Engineering (SRE) Technical Overview | [Link](https://www.redhat.com/en/services/training/transitional-approach-implementing-pragmatic-site-reliability-engineering-sre-technical-overview) | Unknown |
 | GitOps | Akuity | Introduction to Continuous Delivery and GitOps using Argo CD | [Link](https://academy.akuity.io/courses/gitops-argocd-intro) | Unknown |
-| Network | Cisco U | Understanding Cisco Network Automation Essentials - DEVNAE - 16 continuing education credits free | [Link](https://u.cisco.com/path/3) | Unlimited |
-| Network | Cisco Networking Academy | Networking Essentials | [Link](https://www.netacad.com/courses/networking/networking-essentials) | Unlimited |
-| Game Development | Unity | Official tutorials provided by Unity, for all skill levels, covering a wide range of features and skills. | [Link](https://learn.unity.com/) | Unlimited |
-| Internet of Things | Cisco Networking Academy | Introduction to IoT | [Link](https://www.netacad.com/courses/iot/introduction-iot) | Unlimited |
-| DevOps | Google Cloud Skills Boost | DevOps Essentials | [Link](https://www.cloudskillsboost.google/course_templates/717) | Unlimited |
-| AI Fundamentals | Google Cloud Skills Boost | Introduction to Generative AI | [Link](https://www.cloudskillsboost.google/journeys/118/course_templates/536) | Unlimited |
-| Machine Learning | Google Cloud Skills Boost | Intro to ML: Language Processing | [Link](https://www.cloudskillsboost.google/course_templates/740) | Unlimited |
-| Machine Learning | Google Cloud Skills Boost | Integrate with Machine Learning APIs | [Link](https://www.cloudskillsboost.google/course_templates/630) | Unlimited |
-| Cloud | Google Cloud Skills Boost | Cloud Engineering | [Link](https://www.cloudskillsboost.google/course_templates/695) | Unlimited |
-| AI | Elements of AI | Free online courses about the basics of AI | [Link](https://www.elementsofai.com/) | Unlimited |
-| AI | LinkedIn | Career Essentials in Generative AI by Microsoft and LinkedIn | [Link](https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin) | Unknown |
-| AI | HuggingFace | Free online course and certification for Deep Reinforcement Learning | [Link](https://huggingface.co/learn/deep-rl-course) | Unlimited |
 
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
