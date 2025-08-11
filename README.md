@@ -7,36 +7,21 @@
 | AI Fundamentals | Databricks  | Generative AI Fundamentals | [Link](https://www.databricks.com/resources/learn/training/generative-ai-fundamentals) | Unlimited |
 | OCI | Oracle | Oracle Cloud Infrastructure 2023 Foundations Associate | [Link](https://education.oracle.com/oracle-cloud-infrastructure-2023-foundations-associate/pexam_1Z0-1085-23) |Unlimited |
 | OCI | Oracle | Oracle Cloud Data Management 2023 Foundations Associate | [Link](https://education.oracle.com/oracle-cloud-data-management-2023-foundations-associate/pexam_1Z0-1105-23) |Unlimited |
-| JumpCloud | JumpCloud | Free JumpCloud Core Certification (worth $150). | [Link](https://jumpcloud.com/university/certifications/core) | Limited Time |
-| Google Cloud | QwikLabs | Extra 30 days for Google Cloud labs on Qwiklabs. | [Link](https://go.qwiklabs.com/qwiklabs-free) | Unknown |
 | Automated Testing | Test Automation University | Free certification courses by the Test Automation University. | [Link](https://testautomationu.applitools.com/) | Unknown |
-| Security | Juniper Networks | Courses and certifications for free by Juniper Networks (instead of 150 euros). | [Link](https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=11478) | Unknown |
-| Google Cloud | Qwiklabs | Claim 30 days of free Qwiklabs and access to the featured labs. | [Link](https://go.qwiklabs.com/googlecloudsolutions) | Unknown |
-| Huawei Networking | Huawei Academy | Free courses & exams from Huawei Academy for the HCIA, HCIP, and HCIE certifications. | [Link](https://ilearningx.huawei.com/portal/courses) | Unknown |
-| Huawei Networking | Huawei Academ | Free course & certification (HCIA level, $200 value). | [Link](https://e.huawei.com/en/talent/#/ict/partner-details?consultationId=545&consClassCode=AUTH&consTypeCode=consulationRZZX&urlForm=certifi) | Unknown |
-| Programming | JetBrains | Free courses by JetBrains Academy for learning Java, Kotlin & Python. | [Link](https://www.jetbrains.com/academy/) | Unknown |
-| Cloud Monitoring | Elastic | Free access to 11 Elastic Stack courses ($200 value each). | [Link](https://www.elastic.co/training/free) | Unknown |
 | Diverse | Udacity | One free month of access to nanodegree programs by Udacity ($400 value). Credit card / PayPal required. Don’t forget to cancel in time. | [Link](https://blog.udacity.com/2020/03/one-month-free-on-nanodegrees.html) | Unknown |
-| Alibaba Cloud | Coursera | “Architecting on Alibaba Cloud Specialization” at Coursera. | [Link](https://www.coursera.org/specializations/alibabacloud) | Unknown |
 | DevOps | The Linux Foundation | The Linux Foundation offers 23 free courses with finalizing exams & confirmations. | [Link](https://training.linuxfoundation.org/resources/?_sft_content_type=free-course) | Unknown |
 | DevOps | CloudBees University | Free training through CloudBees University (Jenkins, DevOps). | [Link](https://standard.cbu.cloudbees.com/) | Unknown |
-| Data Analytics | Sumo Logic | 6 free training courses and certifications by Sumo Logic. | [Link](https://www.sumologic.com/learn/certifications/) | Unlimited |
-| Web Development | Freecodecamp | 6 Free Code Camp learning courses & certifications, incl. RWD, JavaScript, APIs, React… | [Link](https://www.freecodecamp.org/) | Unlimited |
-| Diverse | Udemy | ~670 free courses at Udemy, incl. certificates. | [Link](https://www.udemy.com/courses/free/) | Unlimited |
 | cPanel | Cpanel University | Free cPanel Professional Certification (CPP) awarded simply by successfully completing the full series of video lessons. There is no final certification exam required for the CPP status. | [Link](https://exams.cpanel.net/catalog/info/id:228,cat:38) | Unlimited |
 | Plesk | Plesk University | Free Plesk Obsidian Professional Certification | [Link](https://university.plesk.com/catalog/info/id:343) | Unlimited |
 | SolusIO | Plesk University | Free SolusIO Professional Certification | [Link](https://university.plesk.com/catalog/info/id:369) | Unlimited |
 | Analytics | Google Analytics Academy | Google Analytics Academy free courses with certificates | [Link](https://analytics.google.com/analytics/academy/) | Unlimited |
 | SD-WAN | Silver Peak | Silver Peak , offers Free Training & Certification Exam for SD-WAN Profissional | [Link](https://www.silver-peak.com/support/training) | Unknown |
 | Data Science, AI | IBM Cognitive Class | Free AI courses with proof of completion and badge | [Link](https://cognitiveclass.ai/) | Unlimited |
-| IT sector | Bitdegree | gain or improve digital skills on our eLearning platform | [Link](https://www.bitdegree.org/free-certifications-online) | Unknown |
-| SysTrack | Lakeside Software | Free SysTrack certification and badge upon completion of self-paced courses through their online learning platform. They offer three courses: SysTrack Technician, SysTrack Engineer, and SysTrack Dashboard Designer. | [Link](https://info.lakesidesoftware.com/acton/fs/blocks/showLandingPage/a/31052/p/p-0081/t/page/fm/0) | Unknown |
 | Eggplant | Eggplant | Free Eggplant courses and certifications. | [Link](https://www.eggplantsoftware.com/training-and-certifications) | Unknown |
 | AWS | AWS | Free full-time AWS training with certification and launch a career in cloud computing with AWS re/Start for unemployed and underemployed individuals. | [Link](https://aws.amazon.com/training/restart/) | Unknown |
 | AWS | AWS | AWS Cloud Quest: Cloud Practitioner | [Link](https://explore.skillbuilder.aws/learn/course/11458/aws-cloud-quest-cloud-practitioner) | Unknown |
 | AWS | AWS | AWS Solutions Architect - Knowledge Badge Readiness Path | [Link](https://explore.skillbuilder.aws/learn/public/learning_plan/view/1044/solutions-architect-knowledge-badge-readiness-path) | Unknown |
 | API | Postman | Postman API Fundamentals Student Expert | [Link](https://academy.postman.com/path/postman-api-fundamentals-student-expert) | Unknown |
-| API | API Academy | Free API Designer and API Security Architect certifications. | [Link](https://apiacademy.co/api-certification/) | Unknown |
 | API | Gravitee.io | Event-Native API Management Fundamentals Certification | [Link](https://gravitee.getlearnworlds.com/course/gravitee-event-native-api-management-foundations) | Unknown |
 | API | Gravitee.io | Event-Native API Management Professional Certification | [Link](https://gravitee.getlearnworlds.com/course/gravitee-enap-certification) | Unknown |
 | Zerto | Zerto | Free Zerto Associate Certification on Zerto University. | [Link](https://www.zerto.com/myzerto/training/) | Unknown |
