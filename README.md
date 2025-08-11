@@ -149,9 +149,7 @@
 
 | Provider | Description | Link | Expiration |
 | --- | --- | --- | --- |
-| Revenera | Revenera Certification, free of charge to approved members of the legal community. | [Link](https://info.revenera.com/SCA-Legal-Certification-Program-Request) | Unlimited |
 | CertiProf| Free Remote Work and Virtual Collaboration - RWVCPC | [Link](https://certiprof.com/pages/remote-work-and-virtual-collaboration-certificate-rwvcpc) | Unknown |
-| Slack | Free Slack Skill Learning Paths and Badges (issued by accredible.com - these are not certifications but badges for skill specialists) | [Link](https://www.slackcertified.com/page/slack-skills) | Unknown |
 | Miro | Collaborative meetings | [Link](https://academy.miro.com/learning-paths/collaborative-meetings-in-miro) | Unknown |
 | EF SET | 50-minute test to receive your personalized English certificate to add to your LinkedIn profile or CV, aligned to CEFR levels. | [Link](https://www.efset.org/ef-set-50/) | Unlimited |
 | ATLASSIAN University | Beginner's Guide to Agile in Jira Badge| [Link](https://university.atlassian.com/student/path/1113130-apply-agile-practices-to-manage-your-work) | Unlimited |
